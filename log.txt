@@ -1,0 +1,23 @@
+commit 54c2ef307d01390ea9c17c3757f5a3250f65f18c
+Author: rut funes <funesrut@gmail.com>
+Date:   Mon Oct 9 19:06:28 2023 -0300
+
+    editando index en edi 9/10
+
+commit 14831daed89d1078f665b3357949451f8721e0d7
+Author: rut funes <funesrut@gmail.com>
+Date:   Thu Oct 5 19:55:05 2023 -0300
+
+    editando index y creando archivo js
+
+commit 49697b967fd1b6348153240a5e771c55f520b3f9
+Author: Nico <ngdiaz00@gmail.com>
+Date:   Mon Oct 2 16:16:53 2023 -0300
+
+    creando archivo index
+
+commit f66d767d776f691ef71fc52b006998c5cd41aa4b
+Author: Nicolas Diaz <89877799+nicodiaz00@users.noreply.github.com>
+Date:   Mon Oct 2 16:14:42 2023 -0300
+
+    Initial commit
