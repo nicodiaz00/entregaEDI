@@ -1,0 +1,23 @@
+commit 95b016ed771bd441f8c1cb2ac87698e748faf576
+Author: demian <damianfernandezbab@gmail.com>
+Date:   Wed Oct 4 19:15:54 2023 -0300
+
+    creando archivo js
+
+commit afb21b1545ca64b42eb487c849f41be2420334ef
+Author: demian <damianfernandezbab@gmail.com>
+Date:   Wed Oct 4 19:10:45 2023 -0300
+
+    cambios
+
+commit 49697b967fd1b6348153240a5e771c55f520b3f9
+Author: Nico <ngdiaz00@gmail.com>
+Date:   Mon Oct 2 16:16:53 2023 -0300
+
+    creando archivo index
+
+commit f66d767d776f691ef71fc52b006998c5cd41aa4b
+Author: Nicolas Diaz <89877799+nicodiaz00@users.noreply.github.com>
+Date:   Mon Oct 2 16:14:42 2023 -0300
+
+    Initial commit
